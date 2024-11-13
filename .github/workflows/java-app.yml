@@ -24,7 +24,7 @@ jobs:
           architecture: x64
           cache: maven
       
-      # Lint the code
+      # Lint the code --
       - name: Run Checkstyle
         run: mvn checkstyle:check
 
