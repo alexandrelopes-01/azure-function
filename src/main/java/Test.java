@@ -1,2 +1,1 @@
-Key,name
-apikey1234abcdefghij0123456789,MyFirstApiKey
+aws_secret_access_key = 1234abcdefghij0123456789
